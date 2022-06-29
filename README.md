@@ -34,3 +34,11 @@ The project you are going to build is based on an online website for a conferenc
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+# Acknowledgments
+To my learning partners and Standup team members
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.-project
