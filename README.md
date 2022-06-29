@@ -1,73 +1,50 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Microverse HTML, CSS, JS Capstone Project
+"This website is an announcement for the upcoming entrepreneurship and technology conference. The conference will be held within Yıldız Technical University Technology Club. General information about the club and the conference is given throughout the site. Speakers are introduced in a separate section. In addition, a form page is defined for participants who want to buy tickets."
 
-# Project Name
+The website content is fictional. It was created using HTML, CSS and JavaScript to meet the requirements defined within the scope of the Microverse Capstone project. In particular, I would like to point out that I built this website completely from scratch.
 
-> Description the project.
 
+![web](https://github.com/microverseinc/curriculum-html-css/blob/main/capstone/images/conference_page.png)
+
+
+It is built as a part of Microverse Web Developer Course. The mobile-first approach was used in this project.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+-HTML
+-CSS
+-Javascript
 
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+## Live Demo
 
+[Live Demo Link](https://tacettinkustu.github.io/microverse-capstone-1/)
+
+## Presentation of Project
+
+[Loom Video Link](https://www.loom.com/share/a191174d83aa4fceb67c36b660a692ba)
+
+## Project Description
+
+The project you are going to build is based on an *online website for a conference*. We provide some design guidelines for you to create the website. It's very important the you personalize your project so that you have something unique in your portfolio to share with potential employers during job searching.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running usual steps.
 
 
-To get a local copy up and running follow these simple example steps.
+## Author
+👤 **Tacettin Kustu**
 
-### Prerequisites
+- GitHub: [@tacettinkustu](https://github.com/tacettinkustu)
+- LinkedIn: [tacettinkustu](https://www.linkedin.com/in/tacettin-k%C3%BCst%C3%BC-aaba721b5/)
 
-### Setup
+## UI Designer
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
+Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07). But, I personalized for my purposes.
 
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
