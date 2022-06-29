@@ -293,7 +293,7 @@ nav {
 .past-first-activity {
   width: 40%;
   min-height: 300px;
-  background: url("https://monbien-events.com/wp-content/uploads/2018/03/conference_crop.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUyl4_ZFKff7UxDV8HlwuMtoVE_UqMxLljuhd3Ycm5QrvTOVNjYIhBMQaaqa2wxCSkIM&usqp=CAU");
   background-size: cover;
   position: relative;
   opacity: 0.8;

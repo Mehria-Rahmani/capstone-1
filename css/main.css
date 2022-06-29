@@ -315,7 +315,6 @@ nav h2 {
   position: absolute;
   top: 0;
   left: 0;
- 
   background-color: #dd1a06;
   opacity: 0.8;
   color: #fff;
@@ -324,7 +323,7 @@ nav h2 {
 .past-second-activity {
   width: 80%;
   min-height: 200px;
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUyl4_ZFKff7UxDV8HlwuMtoVE_UqMxLljuhd3Ycm5QrvTOVNjYIhBMQaaqa2wxCSkIM&usqp=CAU");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUyl4_ZFKff7UxDV8HlwuMtoVE_UqMxLljuhd3Ycm5QrvTOVNjYIhBMQaaqa2wxCSkIM&usqp=CAU");
   background-size: cover;
   position: relative;
   opacity: 0.8;
