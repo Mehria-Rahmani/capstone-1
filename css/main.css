@@ -388,6 +388,15 @@ nav h2 {
 .footer {
   width: 100%;
   margin: 5% 0;
+  background-color: #272a31;
+}
+
+.adress-details {
+  color: #fff;
+}
+
+.phone-number {
+  color: #fff;
 }
 
 .contact {

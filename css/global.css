@@ -42,7 +42,7 @@
 }
 
 .light-black {
-  color: #272a31;
+  color: #fff;
 }
 
 .dark-orange {
@@ -79,6 +79,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 10px 30%;
 }
 
 .flex-column-center {

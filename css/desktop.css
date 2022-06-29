@@ -220,10 +220,11 @@ nav {
 /* Contact */
 .footer {
   margin-top: 0;
+  background-color: #272a31;
 }
 
 .contact-details {
-  justify-content: center;
+  justify-content: space-between;
   margin: 0;
 }
 
@@ -237,10 +238,20 @@ nav {
 
 .ytu-logo {
   margin-right: 3%;
+  margin-bottom: 50px;
 }
 
 .adress {
   margin-left: 3%;
+  padding-bottom: 50px;
+}
+
+.adress-details {
+  color: #fff;
+}
+
+.phone-number {
+  color: #fff;
 }
 
 /* About Us */
