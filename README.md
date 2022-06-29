@@ -36,7 +36,7 @@ The project you are going to build is based on an online website for a conferenc
 Give a ⭐️ if you like this project!
 
 # Acknowledgments
-To my learning partners and Standup team members
+to Cindy Shin the author of the original design.
 
 
 ## 📝 License
