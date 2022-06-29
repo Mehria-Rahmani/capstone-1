@@ -17,7 +17,7 @@ The website content is fictional. It was created using HTML, CSS and JavaScript 
 
 ## Presentation of Project
 
-[Loom Video Link]()
+[Loom Video Link](https://www.loom.com/share/1a5dfb5877e1459d9358dd5612d0925b)
 
 ## Project Description
 
