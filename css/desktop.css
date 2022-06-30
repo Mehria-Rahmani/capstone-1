@@ -221,6 +221,7 @@ nav {
 .footer {
   margin-top: 0;
   background-color: #272a31;
+  color: #fff;
 }
 
 .contact-details {
@@ -340,4 +341,8 @@ nav {
 /* toggle for speakers */
 .speakers-display {
   display: flex;
+}
+
+.white {
+  color: #fff;
 }

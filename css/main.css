@@ -413,3 +413,7 @@ nav h2 {
   margin: 5% 0;
   justify-content: space-around;
 }
+
+.white {
+  color: #fff;
+}
