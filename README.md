@@ -1,73 +1,44 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Microverse HTML, CSS, JS Capstone Project
+Asian Youth Program (AYP), in partnership with Womankind (formerly New York Asian Women’s Center), offers mentoring to children impacted by domestic violence. AYP mentors become positive role models engaging in one-to-one relationships through enrichment activities and recreational trips to cultural sites around New York City. All activities are designed to build self-confidence, foster a sense of family and community, and inspire a commitment to service among the children served in a fun and nurturing environment.
+The website content is fictional. It was created using HTML, CSS and JavaScript to meet the requirements defined within the scope of the Microverse Capstone project. In particular, I would like to point out that I built this website completely from scratch.
 
-# Project Name
-
-> Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+-HTML
+-CSS
+-Javascript
 
 
-## Getting Started
+## Live Demo
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+[Live Demo Link](https://mehria-rahmani.github.io/capstone-1/)
 
+## Presentation of Project
 
-To get a local copy up and running follow these simple example steps.
+[Loom Video Link](https://www.loom.com/share/1a5dfb5877e1459d9358dd5612d0925b)
 
-### Prerequisites
+## Project Description
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+The project you are going to build is based on an online website for a conference.
 
 
+## Author
+**Mehria-Rahmani***
+- Github: [@Merhia-Rahmani](https://github.com/Mehria-Rahmani)
+- Twitter: [@MehriaRahmani](https://twitter.com/MehriaRahmani?t=QwKwWXTVBZthv4sUrOXtfQ&s=08)
+- LinkedIn: [@mehria-rahmani](https://www.linkedin.com/in/mehria-rahmani-379211222) 
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+# Acknowledgments
+to Cindy Shin the author of the original design.
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./MIT.md) licensed.-project
